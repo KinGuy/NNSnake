@@ -1,2 +1,2 @@
 # NNSnake
-A snake game and a neuralNet to learn how to play it
+A snake game and a NeuralNet to learn how to play it
