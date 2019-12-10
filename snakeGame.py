@@ -108,6 +108,10 @@ class App:
         # start main game loop
         self.mainLoop()
     
+    # TODO: reset the game - don't close the window
+    def reset(self):
+        pass
+    
     # draw a snake on the display
     def drawSnake(self, snake, surface):
         for i, tile in enumerate(snake.history):
